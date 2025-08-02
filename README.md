@@ -1,4 +1,7 @@
-# 🏥 Healthcare Onboarding Assistant
+# Project Name : Hospi - A Multi Agent System for Intelligent Patient Engagement
+## Team : YashGaurav_Hospi_
+
+## 🏥 Healthcare Onboarding Assistant
 
 An intelligent conversational AI system that helps patients complete their healthcare onboarding process, including document processing, appointment scheduling, and automated voice confirmation calls.
 
