@@ -14,6 +14,8 @@ An intelligent conversational AI system that helps patients complete their healt
 - **🎯 Multi-Agent System**: CrewAI-powered intelligent agents for specialized tasks
 - **📱 Streamlit UI**: Modern, responsive web interface
 
+<img width="1205" height="738" alt="image" src="https://github.com/user-attachments/assets/584a9168-47c5-4d1a-9b29-38250806e6f8" />
+
 ## 🚀 Quick Start
 
 ### Prerequisites
