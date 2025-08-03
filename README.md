@@ -18,7 +18,7 @@ An intelligent conversational AI system that helps patients complete their healt
      alt="image" 
      width="1205" 
      height="738" 
-     style="border: 2px solid white; border-radius: 8px;" />
+     style="border:100px solid white; border-radius: 90px;" />
 
 
 ## 🚀 Quick Start
