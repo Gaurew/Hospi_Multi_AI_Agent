@@ -430,8 +430,21 @@ class HealthcareOnboardingSystem:
                 max_consecutive_auto_reply=3  # Prevent infinite loops
             )
             
-            # Execute the onboarding process with timeout
-            crew_result = crew.kickoff()
+            # Execute the onboarding process with timeout and retry logic
+            max_retries = 3
+            crew_result = None
+            
+            for attempt in range(max_retries):
+                try:
+                    crew_result = crew.kickoff()
+                    break  # Success, exit retry loop
+                except Exception as e:
+                    print(f"Attempt {attempt + 1} failed: {str(e)}")
+                    if attempt == max_retries - 1:
+                        # Last attempt failed, create fallback result
+                        crew_result = None
+                    else:
+                        time.sleep(2)  # Wait before retry
             
             # Convert CrewOutput to serializable format
             serializable_result = self._convert_crew_output_to_dict(crew_result)

@@ -39,8 +39,8 @@ KNOWLEDGE_BASE = """Hello! This is your healthcare appointment confirmation call
 Patient Name: Patient
 Department: ** Orthopedics
 Doctor: ** Dr. Robert Johnson
-Date: ** 2025-08-21
-Time: ** 11:00 AM
+Date: ** August 13, 2025
+Time: ** 03:00 PM
 Location: ** Building B, Floor 1, Room 101-110
 
 Please arrive 15 minutes before your appointment time. Bring your ID and insurance card. 
