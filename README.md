@@ -20,7 +20,11 @@ An intelligent conversational AI system that helps patients complete their healt
 
 ---
 
-###  This is how the end output on the UI looks like . Where appointment has been booked for the patient
+###  This is how the end output on the UI looks like . Where appointment has been booked for the patient 
+
+<img width="993" height="595" alt="image" src="https://github.com/user-attachments/assets/75833338-844a-45ce-a470-20e16c8b5ce3" />
+
+---
 
 <img src="https://github.com/user-attachments/assets/584a9168-47c5-4d1a-9b29-38250806e6f8" 
      alt="image" 
