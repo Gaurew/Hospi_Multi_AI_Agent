@@ -15,9 +15,13 @@ An intelligent conversational AI system that helps patients complete their healt
 - **📱 Streamlit UI**: Modern, responsive web interface
 
 
-### 
+
+
 
 ---
+
+###  This is how the end output on the UI looks like . Where appointment has been booked for the patient
+
 <img src="https://github.com/user-attachments/assets/584a9168-47c5-4d1a-9b29-38250806e6f8" 
      alt="image" 
      width="1205" 
