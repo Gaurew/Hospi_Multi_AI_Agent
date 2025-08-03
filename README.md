@@ -17,14 +17,14 @@ An intelligent conversational AI system that helps patients complete their healt
 
 ### 
 
-
+---
 <img src="https://github.com/user-attachments/assets/584a9168-47c5-4d1a-9b29-38250806e6f8" 
      alt="image" 
      width="1205" 
      height="738" 
      style="border:100px solid white; border-radius: 90px;" />
 
-
+---
 ### 
 
 
